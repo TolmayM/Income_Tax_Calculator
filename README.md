@@ -5,10 +5,10 @@ This program calculates net income and tax payable from gross income.
 
 <ul>
 
-<li>1.Enter gross income</li>
-<li>2.Enter standard deduction</li>
-<li>3.Enter other exemptions</li>
-<li>4.Click on calculate income tax</li>
+<li>Enter gross income</li>
+<li>Enter standard deduction</li>
+<li>Enter other exemptions</li>
+<li>Click on calculate income tax</li>
 
 </ul>
 
